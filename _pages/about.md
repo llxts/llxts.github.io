@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
@@ -16,4 +16,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-BIO HERE
+Hi, I am Michelle, a final year PhD student in Prof. Roger Foo's group at the Cardiovascular Research Institute at the National University of Singapore Yong Loo Lin School of Medicine. My project focuses on utilising high and low-throughput methodologies to screen and identify cardiac-specific enhancers in vivo. My interests lie in developing and utilising organoids to model disease and develop novel therapeutics. 

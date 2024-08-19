@@ -83,7 +83,7 @@
       "releaseDate": "2023-09-13",
       "summary": "",
       "url": "https://doi.org/10.3390/ijms241814057"
-    },
+    }
     
   ],
   "skills": [],
@@ -98,13 +98,13 @@
       "fluency": "Fluent",
       "icon": ""
     },
-	  {
+	{
       "language": "German",
       "fluency": "Basic",
       "icon": ""
     }
   ],
-  "interests": []
+  "interests": [],
   "references": [],
   "projects": []
 }
